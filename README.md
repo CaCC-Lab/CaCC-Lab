@@ -55,9 +55,9 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**CC-AI-Collective**](https://github.com/CaCC-Lab/CC-AI-Collective) | 7AI 協調フレームワーク v1.1.0 GOLD STATUS | Bash, YAML, BATS | 268/268 tests pass |
 | [**multi-ai-orchestrium**](https://github.com/CaCC-Lab/multi-ai-orchestrium) | 次世代 7AI 統合フレームワーク v4.1 | Bash, Git Worktrees | 71% コード削減達成 |
-| [**check-ai-tools**](https://github.com/CaCC-Lab/check-ai-tools) | 8AI ツール管理システム v2.1.0 | Bash, jq | 395 tests, 97.2% pass |
+| **CC-AI-Collective** | 7AI 協調フレームワーク v1.1.0 GOLD STATUS | Bash, YAML, BATS | 268/268 tests pass |
+| **check-ai-tools** | 8AI ツール管理システム v2.1.0 | Bash, jq | 395 tests, 97.2% pass |
 | **AI-Blogger** | マルチエージェント対応ブログプラットフォーム | Next.js, LangChain, Prisma | Active |
 
 ### 教育・学習支援
@@ -65,17 +65,18 @@
 | Project | Description | Tech Stack | Highlight |
 |---------|-------------|------------|-----------|
 | [**ウゴウゴラボ**](https://ugougo-lab.vercel.app/) | 小1〜高3向けインタラクティブ学習教材 54種 | React, Three.js, Framer Motion | 本番稼働中 |
-| [**RAG-Code-Mentor**](https://github.com/CaCC-Lab/RAG-Code-Mentor-by-Dify) | AI プログラミング学習支援 | Python, Dify, Gemini, Electron | デュアルデプロイ |
-| **v0-career-interest** | キャリア興味分析（Holland RIASEC） | Next.js, shadcn/ui | Lighthouse 98/100 |
+| [**v0-career-interest**](https://github.com/CaCC-Lab/v0-career-interest) | キャリア興味分析（Holland RIASEC） | Next.js, shadcn/ui | Lighthouse 98/100 |
+| [**v0-mousegame**](https://github.com/CaCC-Lab/v0-mousegame) | マウス操作学習ゲーム | Next.js, Electron | 小学生向け・TDD |
+| **RAG-Code-Mentor** | AI プログラミング学習支援 | Python, Dify, Gemini, Electron | デュアルデプロイ |
 | **ehon-koe** | AI 絵本読み聞かせアプリ | React Native, Supabase, TTS | 10冊収録 |
 
 ### 業務系 Web アプリケーション
 
 | Project | Description | Tech Stack | Achievement |
 |---------|-------------|------------|-------------|
-| **kintai-app** | エンタープライズ勤怠管理 + AI 分析 | Spring Boot, React, Ollama | 1000同時接続対応 |
 | [**workplace-roleplay**](https://github.com/CaCC-Lab/workplace-roleplay) | 職場コミュニケーション練習 AI | Flask, Gemini, Azure | 45+ シナリオ |
-| **kibarashi-app** | AI ストレス解消アプリ（5分気晴らし） | React, Vercel Functions | 95.5% coverage |
+| [**kibarashi-app**](https://github.com/CaCC-Lab/kibarashi-app) | AI ストレス解消アプリ（5分気晴らし） | React, Vercel Functions | 95.5% coverage |
+| **kintai-app** | エンタープライズ勤怠管理 + AI 分析 | Spring Boot, React, Ollama | 1000同時接続対応 |
 | **saiyo-bot** | 地方企業採用チャットボット | React, Node.js, Express | 心理的安全性重視 |
 
 ### アバター・3D 生成
@@ -95,13 +96,13 @@
 | **Sorano** | 空を見上げる連帯感アプリ | Expo, Supabase Realtime | 3 分限定・位置プライバシー |
 | **GIFT** | AI 画像生成（不動産特化） | Expo, OpenAI DALL-E | Clean Architecture |
 | **ONIIIR** | 児童向け安全 AI チャット | Expo, ChatGPT, ふりがな | COPPA 2025 準拠 |
-| **v0-mousegame** | マウス操作学習ゲーム | Next.js, Electron | 小学生向け・TDD |
 
 ### ゲーム・エンタメ
 
 | Project | Description | Tech Stack | Highlight |
 |---------|-------------|------------|-----------|
-| [**block-blast**](https://github.com/CaCC-Lab/block-blast) | テトリス × ぷよぷよ ハイブリッド | React 19, Vite, PWA | 多言語・90%+ coverage |
+| [**pomodoro-todo**](https://github.com/CaCC-Lab/pomodoro-todo) | ポモドーロ × TODO 統合アプリ | HTML, CSS, JavaScript | シンプル・軽量 |
+| **block-blast** | テトリス × ぷよぷよ ハイブリッド | React 19, Vite, PWA | 多言語・90%+ coverage |
 | **eva-tetris** | エヴァンゲリオン × テトリス | Vanilla JS, Canvas | NERV 風 UI |
 | **oshabuta-ar-chat** | AR + AI チャット（おしゃぶた） | Next.js, model-viewer, GPT-4 | 音声対応 |
 | **tatekanbanAR** | 立て看板 3D デザイン + AR | React, Three.js, OpenAI | PWA・53.7% バンドル削減 |
