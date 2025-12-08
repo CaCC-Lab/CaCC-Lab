@@ -14,26 +14,6 @@
 
 ---
 
-## 5AI 協調開発体制
-
-独自の **Multi-AI Orchestration Framework** を構築し、5つの AI を協調させた革新的な開発手法を確立。
-
-| AI | Role | Specialty | Performance |
-|----|------|-----------|-------------|
-| **Claude 4** | Strategic Architect | 戦略設計・品質保証 | レビュー精度 95% |
-| **Gemini 2.5** | Research Lead | Web検索・セキュリティ分析 | 200M tokens context |
-| **Qwen3-Coder** | Lead Developer | 358言語対応・メイン実装 | HumanEval 93.9% |
-| **Codex** | Debugger | バグ修正・最適化 | SWE-bench 74.9% |
-| **Cursor** | Integration Specialist | テスト・UX改善 | Coverage 95%+ |
-
-**成果指標**:
-- 開発速度: **+240%** 向上
-- コード品質: **+185%** 改善
-- バグ削減率: **-80%**
-- テストカバレッジ: **95%+**
-
----
-
 ## Skills & Experience
 
 | 分野 | 主な内容 |
