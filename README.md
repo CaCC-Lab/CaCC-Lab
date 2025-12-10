@@ -1,6 +1,7 @@
 # CaCC-Lab
 
-**Claude Assisted Collaborative Coding Laboratory**
+**Computer Aided Career Counseling Laboratory**
+*— also known as Claude Assisted Collaborative Coding Laboratory*
 
 システムエンジニア × 臨床心理士 × ICT 教育支援 × キャリアコンサルタント
 技術と人間理解の両輪で「人に寄り添う ICT 活用」を形にする
@@ -189,6 +190,7 @@
 ---
 
 <p align="center">
-  <i>Claude Assisted Collaborative Coding Laboratory</i><br>
+  <i>Computer Aided Career Counseling Laboratory</i><br>
+  <i>— also known as Claude Assisted Collaborative Coding Laboratory —</i><br>
   <b>Technology meets Human Understanding</b>
 </p>
