@@ -24,7 +24,7 @@
 | モバイル開発 | React Native、Expo SDK 51-53、iOS/Android 対応 |
 | 3D/XR | Three.js、Unity (ChatdollKit)、VRM アバター、AR/WebXR |
 | 生成 AI | Hunyuan3D、TripoSR、Wan2.2、DALL-E、Gemini API |
-| 心理/キャリア支援 | 臨床心理学修士、公認心理師進路、若者の就労支援 |
+| 心理/キャリア支援 | キャリアコンサルタント、臨床心理士、公認心理師、若者の就労支援 |
 | 教育/ICT 支援 | 小学校 ICT 支援員、教材開発、プログラミング支援 |
 | 認定資格 | CompTIA, Microsoft, Apple Swift Playgrounds トレーナー認定 |
 
